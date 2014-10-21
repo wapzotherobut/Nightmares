@@ -799,7 +799,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d9c9e0011c2ed97428a4efc03b455359, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerHealth: {fileID: 0}
+  playerHealth: {fileID: 1148598302}
   restartDelay: 5
 --- !u!95 &240192893
 Animator:
@@ -1331,7 +1331,7 @@ Transform:
   m_PrefabParentObject: {fileID: 400072, guid: 149d6dcc67e8d1240bbc0dd6ddf0c1bd, type: 2}
   m_PrefabInternal: {fileID: 1189381547}
   m_GameObject: {fileID: 597865662}
-  m_LocalRotation: {x: 0, y: -.0763079226, z: 0, w: .997084379}
+  m_LocalRotation: {x: 0, y: -.0763079226, z: 0, w: .99708432}
   m_LocalPosition: {x: -2.72180009, y: 1.14300001, z: -1.60520005}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -2650,7 +2650,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1148598295}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c32067ea884548644b13cf9baddd4573, type: 3}
+  m_Script: {fileID: 11500000, guid: 544f2064df03e95419b4a5147c506b08, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   startingHealth: 100
@@ -2689,7 +2689,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76a99222b1e4a384e923ac7e86efc709, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerHealth: {fileID: 0}
+  playerHealth: {fileID: 1148598302}
   enemy: {fileID: 100000, guid: 84cb06cc25e43784582b09d78cfaec0a, type: 2}
   spawnTime: 3
   spawnPoints:
@@ -2717,7 +2717,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76a99222b1e4a384e923ac7e86efc709, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerHealth: {fileID: 0}
+  playerHealth: {fileID: 1148598302}
   enemy: {fileID: 100000, guid: 6fd694fb865e5524486da2da372b9730, type: 2}
   spawnTime: 10
   spawnPoints:
@@ -2733,7 +2733,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76a99222b1e4a384e923ac7e86efc709, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerHealth: {fileID: 0}
+  playerHealth: {fileID: 1148598302}
   enemy: {fileID: 100000, guid: 7bca9c2cd581dbb4f971ad087c21f5f9, type: 2}
   spawnTime: 3
   spawnPoints:
@@ -3495,7 +3495,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1551993415}
-  m_LocalRotation: {x: .258819044, y: 0, z: 0, w: .965925813}
+  m_LocalRotation: {x: .258819073, y: 0, z: 0, w: .965925872}
   m_LocalPosition: {x: 1, y: 15, z: -22}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
